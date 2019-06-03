@@ -6,5 +6,9 @@
   "repository": "https://github.com/paxthemax/64x64-fixed-math-sol.git",
   "author": "Pavle Batuta <pavle.batuta@protonmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "openzeppelin-test-helpers": "^0.4.0"
+  }
 }
