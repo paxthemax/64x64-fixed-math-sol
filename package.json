@@ -1,0 +1,10 @@
+{
+  "name": "64x64-fixed-math-sol",
+  "version": "0.1.0",
+  "description": "\"64x64 fixed point math library in Solidity\"",
+  "main": "index.js",
+  "repository": "https://github.com/paxthemax/64x64-fixed-math-sol.git",
+  "author": "Pavle Batuta <pavle.batuta@protonmail.com>",
+  "license": "MIT",
+  "private": true
+}
