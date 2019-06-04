@@ -29,3 +29,6 @@ yarn.lock
 package-lock.json
 
 # End of https://www.gitignore.io/api/soliditytruffle
+
+# ganache local chain data
+.chain/
